@@ -14,6 +14,6 @@ This is the code for the pure python script for creating and updating a changelo
 - Run `chmod 755 changelog.py` to make it executable.
 - Run `./changelog.py` and sit back while a Changelog is created or new changelog item is added that is aligned with today's date and version.
 
-## Supported Languages (with Repos)
-- [Bash](https://github.com/macro6461/changelog-bash-script)
-- [Python](https://github.com/macro6461/changelog-py)
+## Supported Languages (with repo links)
+- [Bash](https://github.com/macro6461/changelog-bash)
+- [Python](https://github.com/macro6461/changelog-python)
