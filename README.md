@@ -16,4 +16,4 @@ This is the code for the pure python script for creating and updating a changelo
 
 ## Supported Languages (with Repos)
 - [Bash](https://github.com/macro6461/changelog-bash-script)
-- Python ( TBD )
+- [Python](https://github.com/macro6461/changelog-py)
