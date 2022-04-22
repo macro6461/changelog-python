@@ -41,7 +41,7 @@ def changelog_helper(item):
 def new_changelog_item():
     is_found=changelog_helper(item)
     if (is_found):
-        print("Changelog item already exists for {}".format(item))
+        print("Changelog item already exists for \n    {}".format(item))
     else:
         index = -1
         changelog_items=read_changelog()
